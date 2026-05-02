@@ -36,7 +36,7 @@ Identify key predictors of GDP growth
 
 Analyze the role of public debt
 
-C. Forecasting (2025–2030)
+### C. Forecasting (2025–2030)
 Forecast GDP growth
 
 Forecast exchange rate
@@ -127,6 +127,7 @@ project/
 │   └── presentation.pptx
 │
 └── README.md
+
 ## 8. Methods
 Exploratory Data Analysis (EDA)
 

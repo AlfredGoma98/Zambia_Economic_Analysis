@@ -109,24 +109,24 @@ Debt‑to‑GDP is included as a secondary variable due to missing early‑perio
 
 ## 7. Project Structure
 
-project/
-│
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_EDA.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   ├── 04_modeling.ipynb
-│   ├── 05_forecasting.ipynb
-│
-├── reports/
-│   ├── final_report.pdf
-│   └── presentation.pptx
-│
-└── README.md
+project/  
+│  
+├── data/  
+│   ├── raw/  
+│   └── cleaned/  
+│  
+├── notebooks/  
+│   ├── 01_data_cleaning.ipynb  
+│   ├── 02_EDA.ipynb  
+│   ├── 03_feature_engineering.ipynb  
+│   ├── 04_modeling.ipynb  
+│   ├── 05_forecasting.ipynb  
+│  
+├── reports/  
+│   ├── final_report.pdf  
+│   └── presentation.pptx  
+│  
+└── README.md  
 
 ## 8. Methods
 Exploratory Data Analysis (EDA)
